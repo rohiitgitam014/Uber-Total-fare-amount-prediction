@@ -1,4 +1,6 @@
 Uber Total Fare Amount Prediction
+
+
 Project Overview
 This project aims to predict the total fare amount for Uber rides based on various factors such as trip duration, distance traveled, number of passengers, and additional fees. Using a dataset with over 200,000 records, we developed a machine learning model to accurately predict the total fare, leveraging data exploration and a linear regression model.
 
